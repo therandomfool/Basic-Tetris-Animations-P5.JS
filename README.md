@@ -4,6 +4,6 @@
 - 
 
 
-![basictetrisanimationsp5js](assets/uc2.gif)
+![basictetrisanimationsp5js](assets/tetris.gif)
 
 
